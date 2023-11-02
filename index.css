@@ -1,0 +1,15 @@
+@keyframes rotate{
+0%{transform:rotateZ(0)}
+100%{transform:rotateZ(180deg)}
+}
+@-webkit-keyframes rotate{
+0%{transform:rotateZ(0)}
+100%{transform:rotateZ(180deg)}
+}
+@-moz-keyframes rotate{
+0%{transform:rotateZ(0)}
+100%{transform:rotateZ(180deg)}
+}
+@-o-keyframes rotate{
+0%{transform:rotateZ(0)}
+100%{transform:rotateZ(180deg)}
